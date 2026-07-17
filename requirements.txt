@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlmodel
+sqlalchemy
+pydantic
+pydantic-settings
+pytest
+streamlit
+PyYAML
+openai
+pandas
+plotly
+psycopg2-binary
+httpx
