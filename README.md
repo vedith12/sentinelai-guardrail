@@ -223,7 +223,3 @@ Evaluate an AI output against all active policies.
 - [ ] Webhook support for real-time review notifications
 
 ---
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
